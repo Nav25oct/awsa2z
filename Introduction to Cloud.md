@@ -30,6 +30,8 @@ According to the official NIST definition, "cloud computing is a model for enabl
 
 https://en.wikipedia.org/wiki/Cloud_computing#/media/File:Cloud_computing.svg
 
+![cloudcomputing](/image/cloudcomputing.png)
+
 
 
 

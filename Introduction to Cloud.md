@@ -24,15 +24,11 @@ According to the official NIST definition, "cloud computing is a model for enabl
 * Platform as a Service (PaaS)
 * Infrastructure as a Service (IaaS)
 
+![cloudcomputing](/image/cloudcomputing.png)
+
 ##### Software as a Service (SSAS)
 ##### Platform as a Service (PaaS)
 ##### Infrastructure as a Service (IaaS)
-
-https://en.wikipedia.org/wiki/Cloud_computing#/media/File:Cloud_computing.svg
-
-![cloudcomputing](/image/cloudcomputing.png)
-
-
 
 
 
